@@ -4,6 +4,6 @@ title: About
 permalink: /about/
 ---
 
-## About me
+# 🚧 工事中です 🚧
 
-ここに自己紹介を書いてください。
+このページは現在準備中です。

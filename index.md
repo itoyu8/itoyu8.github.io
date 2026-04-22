@@ -3,8 +3,8 @@ layout: home
 title: Home
 ---
 
-# Welcome
+# 🚧 工事中です 🚧
 
-itoyu8 のホームページです。
+itoyu8 のホームページです。現在準備中のためコンテンツはまだありません。
 
-- [About](./about.md)
+- [About](./about/)
