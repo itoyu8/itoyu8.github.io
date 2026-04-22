@@ -1,0 +1,13 @@
+title: itoyu8
+description: Personal homepage
+author: itoyu8
+email: yuito.steinway1994@gmail.com
+url: "https://itoyu8.github.io"
+
+theme: minima
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+timezone: Asia/Tokyo
